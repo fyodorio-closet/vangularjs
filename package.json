@@ -8,8 +8,8 @@
     "preview": "vite preview",
     "lint": "eslint src test",
     "lint:fix": "eslint src test --fix",
-    "test": "vitest",
-    "test:run": "vitest run"
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "devDependencies": {
     "eslint": "^8.25.0",
